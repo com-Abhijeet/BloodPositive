@@ -1,0 +1,250 @@
+Pan-India Blood Group Database Project
+
+1. Problem Statement
+
+Blood donation during emergencies often faces delays due to the inability to quickly locate matching donors. Existing platforms either lack real-time location-based search or compromise privacy by exposing personal contact details. This project aims to bridge the gap by creating a secure, user-friendly mobile app to connect users with nearby individuals having the required blood group, ensuring privacy through in-app calling.
+
+2. Stakeholders
+
+Primary Users: Individuals needing blood or willing to donate.
+
+Hospitals & NGOs: To facilitate quick donor search.
+
+Project Owner: Solo fresher developer.
+
+App Stores: Google Play Store and Apple App Store.
+
+3. Project Requirements
+
+3.1 Functional Requirements
+
+User registration via OTP or Google OAuth.
+
+Profile creation with blood group, contact details, and address.
+
+Location-based search for matching blood groups.
+
+In-app calling to contact donors without sharing personal numbers.
+
+Push notifications for requests and matches.
+
+User dashboard for profile management.
+
+3.2 Non-functional Requirements
+
+Secure data storage with encryption.
+
+Real-time search and communication.
+
+Efficient performance under high user load.
+
+Cross-platform compatibility (Android and iOS).
+
+4. Tech Stack
+
+Frontend (React Native App):
+
+React Native with Expo
+
+NativeWind or React Native Paper (UI)
+
+Firebase Authentication (OTP & Google Login)
+
+react-native-maps (Location services)
+
+react-native-webrtc (In-app calling)
+
+react-native-callkeep (Call UI)
+
+Backend (Node.js):
+
+Express.js (API Development)
+
+MongoDB Atlas (Database)
+
+Socket.io (Real-time communication)
+
+Firebase Cloud Messaging (Push notifications)
+
+Infrastructure:
+
+Railway/Render/Fly.io (Backend hosting)
+
+Firebase Cloud Storage (Profile images)
+
+5. Development Costing (Solo Fresher Developer)
+
+Task
+
+Estimated Hours
+
+Hourly Rate (INR 300)
+
+Total Cost (INR)
+
+Frontend Development
+
+100
+
+300
+
+30,000
+
+Backend Development
+
+80
+
+300
+
+24,000
+
+Database Setup
+
+20
+
+300
+
+6,000
+
+UI/UX Design
+
+30
+
+300
+
+9,000
+
+Testing & Debugging
+
+40
+
+300
+
+12,000
+
+Deployment & Setup
+
+20
+
+300
+
+6,000
+
+Total Estimated Cost:
+
+290 Hours
+
+
+
+87,000 INR
+
+6. Time to Develop
+
+Solo Developer: Approximately 10–12 weeks.
+
+7. Project Timeline
+
+Phase
+
+Tasks
+
+Duration
+
+Planning
+
+Project documentation, requirements gathering
+
+1 week
+
+Design
+
+UI/UX design, wireframing
+
+1 week
+
+Backend Development
+
+API development, database setup
+
+3 weeks
+
+Frontend Development
+
+App screens, location services, calling feature
+
+4 weeks
+
+Integration
+
+Frontend-backend integration
+
+2 weeks
+
+Testing & Debugging
+
+Unit testing, bug fixing
+
+1 week
+
+Deployment
+
+Hosting, app store publishing
+
+1 week
+
+Total Duration:
+
+
+
+12 weeks
+
+8. Tentative Launch Date
+
+Project Start: March 1, 2025
+
+Beta Launch: May 15, 2025
+
+Official Launch: June 1, 2025
+
+9. Risk Analysis and Management
+
+Risk
+
+Impact
+
+Mitigation Strategy
+
+Data Breach
+
+High
+
+End-to-end encryption, secure cloud setup
+
+High Development Time
+
+Medium
+
+Daily progress tracking, agile approach
+
+Firebase OTP Limit Reached
+
+Medium
+
+Monitor usage, explore alternative SMS APIs
+
+App Store Rejection
+
+Low
+
+Adhere to store guidelines
+
+User Privacy Concerns
+
+High
+
+Anonymized profiles, consent-based access
+
+10. Conclusion
+
+This project aims to create a free, secure, and efficient blood group matching platform across India. With a user-friendly app, location-based search, and privacy-focused in-app calling, it will streamline the process of finding donors during emergencies. The phased development plan ensures timely delivery, while cost-effective technologies maintain affordability. Post-launch, user feedback will drive continuous improvement, enhancing both accessibility and impact.
+

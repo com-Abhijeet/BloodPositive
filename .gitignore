@@ -1,0 +1,6 @@
+backend /.env
+bloodpos /.env
+bloodpos /.git
+
+backend /node_modules/
+bloodpos /node_modules/
