@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "522479566583",
+    "project_id": "bloodpositive-2025",
+    "storage_bucket": "bloodpositive-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522479566583:android:9234a7883159067ededdf2",
+        "android_client_info": {
+          "package_name": "com.abhijeet.bloodpos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522479566583-vimfatqa1geula728qnqs9nsdbcpr8bc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhijeet.bloodpos",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "522479566583-sgddrhmda30o5pgdacsiv5hcs599tie8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXQxUQBG3OGYFxETG-5fPrq7jtqSmnLc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522479566583-sgddrhmda30o5pgdacsiv5hcs599tie8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "522479566583-9d5rua0rfor315kf8c2dvegbqj4acaqa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anonymous.bloodpositive"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
